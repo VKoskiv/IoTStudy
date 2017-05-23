@@ -1,0 +1,4 @@
+1.1: https://github.com/VKoskiv/IoTStudy
+1.2: Done 
+1.3: raspi-configilla SSH service päälle, ifconfigilla selvitin IPn, IP on 192.168.56.157 ja sitten ssh vkoskiv@192.168.65.157, varmistetaan identiteetti ja kirjoitetaan salasana.
+1.4: sudo dd if=2017-04-10-raspbian-jessie.img of=/dev/rdisk2 bs=1m
