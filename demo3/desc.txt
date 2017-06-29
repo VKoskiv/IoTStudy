@@ -1,5 +1,5 @@
 3.1. ks. Google sheet
 3.2. raspipush@mytestproject-172217.iam.gserviceaccount.com
-3.3 & 3.4 ks Gurus.jpg, pienennettiin parametrejä -w ja -h
+3.3 & 3.4 ks Gurus.jpg, 15secVideo.h264, pienennettiin parametrejä -w ja -h käyttäen
 3.5 ks. MotionCaptured.jpg
 3.6 & 3.7 ks. cronPicture.jpg, cron ajoi tasatunnein python skriptiä joka otti kuvan ja tallensi sen /var/www/html/ hakemistoon. Pieni PHP-pätkä etsi viimeisimmän kuvan ja palautti selaimelle yksinkertaisen <img> tagin.
