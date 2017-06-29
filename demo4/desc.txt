@@ -1,0 +1,16 @@
+4.1:
+14: pid file dir /home/pi/motion/motion.pid
+25: log file dir /home/pi/motionlogs/motion.log
+418: output file dir /home/pi/motionpics
+
+4.2:
+219: pre_capture 1
+222: post_capture 5
+At 2fps
+
+4.3:
+234: max_movie_time 10
+
+4.4:
+195: area_detect 5
+ks. 4.4.avi
