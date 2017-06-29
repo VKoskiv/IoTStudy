@@ -1,0 +1,5 @@
+5.1: pir, pir.c
+5.2: light, light.c
+
+Compile: gcc -g -o <name> <sorcename>
+Example: gcc -g -o light light.c
