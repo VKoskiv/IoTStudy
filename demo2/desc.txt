@@ -1,0 +1,21 @@
+Cobbler vakiokohdassa
+Jumper cobbler 3v3 -> + raiteelle
+Jumper cobbler gnd -> - raiteelle
+Jumper + raiteen jatkeeksi
+Jumper - raiteen jatkeeksi
+
+Vihreä led 19 -> GND, vastus Cobbler 17 -> 19 led +
+Keltainen led 21 -> GND, vastus Cobbler 27 -> 21 led +
+Punainen led 23 -> GND, vastus cobbler 22 -> 23 led +
+Vihreä led 27 -> GND, vastus cobbler 16 -> 27 led +
+Punainen led 29 -> GND, vastus cobbler 20 -> 29 led +
+Keltainen led 32 -> GND, vastus cobbler 21 -> 32 led +
+
+Nappi puolien välissä 35-37
+Jumper nappin 35 -> 3.3v+ raiteeseen
+Pulldown vastus napin 37 -> GND raiteeseen
+Jumper napin 37 -> cobbler 26
+
+PIR musta -> cobbler GND
+PIR punainen -> cobbler 5V
+PIR keltainen -> cobbler 4
