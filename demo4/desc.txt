@@ -10,7 +10,7 @@ At 2fps
 
 4.3:
 234: max_movie_time 10
-222: post_capture 5
+222: post_capture 20
 
 4.4:
 195: area_detect 5
